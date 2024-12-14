@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="QBT2qdcO3Kl9yk9tCMiU">
-    <mxGraphModel dx="1427" dy="787" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1350" pageHeight="1350" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="1002" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1350" pageHeight="1350" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
         <mxCell id="ua9VoeK63j0XvU80rMFT-6" value="" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="73" y="642" width="289.5" height="421" as="geometry" />
         </mxCell>
-        <mxCell id="ua9VoeK63j0XvU80rMFT-7" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Comic Sans MS&quot;&gt;Strategy Identification&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="ua9VoeK63j0XvU80rMFT-7" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal; text-align: start; font-size: 20px;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Comic Sans MS&quot; color=&quot;#0e0e0e&quot;&gt;Strategy Refinement&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="112.75" y="619" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
